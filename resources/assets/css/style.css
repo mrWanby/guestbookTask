@@ -1,0 +1,19 @@
+.cursor-default {
+    cursor: default!important;    
+}
+
+.mt-20 {
+    margin-top: 20px;
+}
+
+mb-20 {
+    margin-bottom: 20px;
+}
+
+.p-20 {
+    padding: 20px;
+}
+
+.fs-20 {
+    font-size: 20px;
+}
